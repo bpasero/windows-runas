@@ -1,0 +1,22 @@
+{
+  "name": "windows-runas",
+  "version": "0.1.0",
+  "description": "Run a command as administrator on Windows",
+  "main": "lib/index.js",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Microsoft/vscode-windows-runas.git"
+  },
+  "homepage": "https://github.com/Microsoft/vscode-windows-runas",
+  "bugs": {
+    "url": "https://github.com/Microsoft/vscode-windows-runas/issues"
+  },
+  "dependencies": {
+    "nan": "^2.6.2"
+  },
+  "os": [
+    "win32"
+  ]
+}
